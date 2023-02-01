@@ -6,7 +6,7 @@ $ mvn org.apache.maven.plugins:maven-install-plugin:2.5.2:install-file \
 	-DartifactId=buildvu-html-trial \
 	-Dversion=2023.01 \
 	-Dpackaging=jar \
-	-DlocalRepositoryPath=/Users/xiaojingjing/tmp/local-maven-repo
+	-DlocalRepositoryPath=/Users/xiaojingjing/tmp/maven-repo/repository
 
 # 将本地目录提交到本仓库中
 
