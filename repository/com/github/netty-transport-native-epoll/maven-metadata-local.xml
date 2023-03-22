@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github</groupId>
+  <artifactId>netty-transport-native-epoll</artifactId>
+  <versioning>
+    <release>4.1.87.Final-linux-x86_64</release>
+    <versions>
+      <version>4.1.87.Final-linux-aarch_64</version>
+      <version>4.1.87.Final-linux-x86_64</version>
+    </versions>
+    <lastUpdated>20230322051419</lastUpdated>
+  </versioning>
+</metadata>

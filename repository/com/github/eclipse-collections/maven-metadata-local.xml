@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github</groupId>
+  <artifactId>eclipse-collections</artifactId>
+  <versioning>
+    <release>11.1.0</release>
+    <versions>
+      <version>11.1.0</version>
+    </versions>
+    <lastUpdated>20230322051027</lastUpdated>
+  </versioning>
+</metadata>

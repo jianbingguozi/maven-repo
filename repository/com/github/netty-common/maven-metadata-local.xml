@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github</groupId>
+  <artifactId>netty-common</artifactId>
+  <versioning>
+    <release>4.1.87.Final</release>
+    <versions>
+      <version>4.1.87.Final</version>
+    </versions>
+    <lastUpdated>20230322051415</lastUpdated>
+  </versioning>
+</metadata>

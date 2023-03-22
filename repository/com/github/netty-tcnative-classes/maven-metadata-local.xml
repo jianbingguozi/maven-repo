@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github</groupId>
+  <artifactId>netty-tcnative-classes</artifactId>
+  <versioning>
+    <release>2.0.56.Final</release>
+    <versions>
+      <version>2.0.56.Final</version>
+    </versions>
+    <lastUpdated>20230322051417</lastUpdated>
+  </versioning>
+</metadata>

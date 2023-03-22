@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github</groupId>
+  <artifactId>akka-protobuf-v3</artifactId>
+  <versioning>
+    <release>2.13-2.6.19</release>
+    <versions>
+      <version>2.13-2.6.19</version>
+    </versions>
+    <lastUpdated>20230322050956</lastUpdated>
+  </versioning>
+</metadata>
