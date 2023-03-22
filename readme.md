@@ -11,6 +11,7 @@ $ mvn org.apache.maven.plugins:maven-install-plugin:2.5.2:install-file \
 # 将本地目录提交到本仓库中
 
 
+\d+(\.\d+)*-\d+(\.\d+)*\.jar|\d+(\.\d+)*\.jar
 ```
 
 # 在pom.xml中配置私服地址
